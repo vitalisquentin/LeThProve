@@ -1,2 +1,2 @@
 # LeThProve
-Theorem-proverr for Lewis condtional logics
+Theorem-prover for Lewis condtional logics
